@@ -69,11 +69,7 @@ augroup END
 " shell for syntax highlighting purposes.
 let g:is_posix = 1
 
-" Softtabs, 2 spaces
-set tabstop=2
-set shiftwidth=2
-set shiftround
-set expandtab
+set noet ci pi sts=0 sw=4 ts=4
 
 " Use one space, not two, after punctuation.
 set nojoinspaces
