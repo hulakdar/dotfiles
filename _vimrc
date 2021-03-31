@@ -24,7 +24,7 @@ set encoding=utf-8                  " Use UTF-8 everywhere.
 
 " this makes netrw really NERDtree-like. lol
 let g:netrw_banner = 0
-let g:netrw_liststyle = r
+let g:netrw_liststyle = 2
 let g:netrw_browse_split = 4
 let g:netrw_altv = 1
 let g:netrw_winsize = 25
