@@ -9,7 +9,7 @@ set noswapfile
 set backspace=2   " Backspace deletes like most programs in insert mode
 
 set incsearch     " do incremental searching
-set laststatus=2  " Always display the status line
+" set laststatus=2  " Always display the status line
 set autowrite     " Automatically :write before running commands
 
 "Enable filetypes
